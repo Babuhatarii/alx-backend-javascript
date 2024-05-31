@@ -11,4 +11,3 @@ At the end of this project, you are expected to be able to explain to anyone, wi
     String templating in ES6
     Object creation and their properties in ES6
     Iterators and for-of loops
-
